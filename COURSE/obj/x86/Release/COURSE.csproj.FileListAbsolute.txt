@@ -1,0 +1,11 @@
+C:\Users\dimon\source\repos\COURSE\COURSE\bin\x86\Release\COURSE.exe.config
+C:\Users\dimon\source\repos\COURSE\COURSE\bin\x86\Release\COURSE.exe
+C:\Users\dimon\source\repos\COURSE\COURSE\bin\x86\Release\COURSE.pdb
+C:\Users\dimon\source\repos\COURSE\COURSE\obj\x86\Release\COURSE.csproj.AssemblyReference.cache
+C:\Users\dimon\source\repos\COURSE\COURSE\obj\x86\Release\COURSE.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimon\source\repos\COURSE\COURSE\obj\x86\Release\COURSE.Form1.resources
+C:\Users\dimon\source\repos\COURSE\COURSE\obj\x86\Release\COURSE.Properties.Resources.resources
+C:\Users\dimon\source\repos\COURSE\COURSE\obj\x86\Release\COURSE.csproj.GenerateResource.cache
+C:\Users\dimon\source\repos\COURSE\COURSE\obj\x86\Release\COURSE.csproj.CoreCompileInputs.cache
+C:\Users\dimon\source\repos\COURSE\COURSE\obj\x86\Release\COURSE.exe
+C:\Users\dimon\source\repos\COURSE\COURSE\obj\x86\Release\COURSE.pdb
